@@ -1,1 +1,1 @@
-config/foo.txt
+HELLOWORLD2
